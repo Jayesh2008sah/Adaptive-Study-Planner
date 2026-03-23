@@ -79,7 +79,6 @@ Priorities Updated → missed subjects get +2.5 priority (capped at 10)
     ↓
 Next week → system remembers everything
 ```
-
 ---
 
 ## 🚀 How to Run
@@ -103,13 +102,6 @@ streamlit run app.py
 **4. Or run the CLI version**
 ```bash
 python Test.py
-```
-
----
-
-## 📸 Screenshots
-
-> Add your screenshots here after deploying
 
 ---
 
@@ -136,16 +128,6 @@ python Test.py
 - Bugs at this level aren't syntax errors — they're flow issues and wrong assumptions
 - Product thinking matters more than syntax knowledge
 - Responsible AI isn't a feature you bolt on — it's a design decision you make from the start
-
----
-
-## 🤝 Built With
-
-- **Python** — core engine
-- **Streamlit** — web interface
-- **Plotly** — charts and visualizations
-- **Pandas** — data handling
-- **AI assistance** — code generation (every product decision was human-made)
 
 ---
 
